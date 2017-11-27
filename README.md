@@ -1,5 +1,5 @@
 # VectorCompare
-File comparison using vectors: (idea from my job at IT)
+File comparison using vectors: (idea from my job at IT) Summer 2017
 
 Description: 
 - I made this project in C++. Originally, this was going to be used to do what my other project called “DatabaseCompare” does, however, when I finished this project, I was told to make it in PHP as it would connect into the system better.
